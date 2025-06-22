@@ -13,6 +13,14 @@ this project analyzes public sentiment on Twitter using Natural Language Process
 
 # tools used
 
-1. Pnada
-  
+1. Panda
+2. Matplotlib
+3. TextBlob
+4. WordCloud
+5. Google colab
+
+# Conclusion 
+Through this project, I learned how to clean and analyze real-world tweet data using NLP techniques. I gained practical experience in sentiment analysis, visualizing trends, and working with libraries like TextBlob and WordCloud to extract meaningful insights from social media content.
+
+
 
